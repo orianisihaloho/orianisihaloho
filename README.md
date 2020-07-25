@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hii Good People 👋 
+I'm Oriani.
+
+I'm a happy learning kid 👩🏻‍💻  
+
+Currently working as Software Development Engineer in Test
+
+### 📫 Get in Touch 
+- Linkedin: [orianisihaloho](https://www.linkedin.com/in/orianisihaloho/)
 
 <!--
 **orianisihaloho/orianisihaloho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
